@@ -1,0 +1,5 @@
+# Android APK
+eas build --platform android
+
+# iOS IPA
+eas build --platform ios
